@@ -1,0 +1,11 @@
+C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\M.K Hardware\bin\Debug\M.K Hardware.exe.config
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\bin\Debug\M.K Hardware.exe.config
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\bin\Debug\M.K Hardware.exe
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\bin\Debug\M.K Hardware.pdb
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\bin\Debug\M.K Hardware.xml
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K_Hardware.Form1.resources
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K_Hardware.Resources.resources
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K Hardware.vbproj.GenerateResource.Cache
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K Hardware.exe
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K Hardware.xml
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\M.K Hardware\M.K Hardware\obj\Debug\M.K Hardware.pdb
